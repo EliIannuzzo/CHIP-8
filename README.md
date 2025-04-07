@@ -2,6 +2,8 @@
 ## Description
 This project began as a suggestion from a [colleague](https://github.com/MoltenMoustache/CHIP-8/tree/master) and evolved into a CHIP-8 emulator built entirely from scratch, using this [guide](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) as the primary reference. It was a straightforward idea that, predictably, became less straightforward over time.
 
+![](demo.gif)
+
 ## Installation
 1. Ensure you have a recent version of CMake installed — ideally one from this decade.
 2. From the root of the project directory, run the following command to generate the Visual Studio project files:
