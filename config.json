@@ -1,0 +1,27 @@
+{
+    "1-ibm-logo.ch8": {
+        "JumpQuirk": false,
+        "ModernLoadStoreQuirk": true,
+        "ModernShiftQuirk": false
+    },
+    "br8kout.ch8": {
+        "JumpQuirk": true,
+        "ModernLoadStoreQuirk": true,
+        "ModernShiftQuirk": true
+    },
+    "snek.ch8": {
+        "JumpQuirk": false,
+        "ModernLoadStoreQuirk": true,
+        "ModernShiftQuirk": false
+    },
+    "superpong.ch8": {
+        "JumpQuirk": true,
+        "ModernLoadStoreQuirk": true,
+        "ModernShiftQuirk": true
+    },
+    "test_opcode.ch8": {
+        "JumpQuirk": true,
+        "ModernLoadStoreQuirk": true,
+        "ModernShiftQuirk": true
+    }
+}
