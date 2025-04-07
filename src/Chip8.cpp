@@ -88,6 +88,7 @@ Chip::Chip()
 {
     // Load font into memory.
     memcpy(&mHeap[0x50], &gFontData, sizeof(gFontData));
+    Op_ClearScreen();
 }
 
 Chip::~Chip()

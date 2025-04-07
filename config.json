@@ -5,18 +5,23 @@
         "ModernShiftQuirk": false
     },
     "br8kout.ch8": {
-        "JumpQuirk": true,
+        "JumpQuirk": false,
         "ModernLoadStoreQuirk": true,
         "ModernShiftQuirk": true
     },
-    "snek.ch8": {
+    "octojam6title.ch8": {
         "JumpQuirk": false,
         "ModernLoadStoreQuirk": true,
         "ModernShiftQuirk": false
     },
-    "superpong.ch8": {
+    "snek.ch8": {
         "JumpQuirk": true,
         "ModernLoadStoreQuirk": true,
+        "ModernShiftQuirk": true
+    },
+    "superpong.ch8": {
+        "JumpQuirk": true,
+        "ModernLoadStoreQuirk": false,
         "ModernShiftQuirk": true
     },
     "test_opcode.ch8": {
