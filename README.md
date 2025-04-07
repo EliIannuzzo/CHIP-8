@@ -1,6 +1,8 @@
 # CHIP-8 Emulation Project
 ## Description
-This project began as a suggestion from a [colleague](https://github.com/MoltenMoustache/CHIP-8/tree/master) and evolved into a CHIP-8 emulator built entirely from scratch, using this [guide](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) as the primary reference. It was a straightforward idea that, predictably, became less straightforward over time.
+This project began as a suggestion from a [colleague](https://github.com/MoltenMoustache/CHIP-8/tree/master) and evolved into a CHIP-8 emulator built entirely from scratch, using this [guide](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) as the primary reference.
+
+[SDL3](https://github.com/libsdl-org/SDL) was used for window & input management, [ImGui](https://github.com/ocornut/imgui) was used for the application layout & debug UI, [Native File Dialog](https://github.com/mlabbe/nativefiledialog) was used for file selection in ROM loading and lastly this small C++ [json library](https://github.com/nlohmann/json) was used for saving/loading ROM configurations.
 
 ![](demo.gif)
 
